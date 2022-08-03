@@ -17,7 +17,7 @@ function recebeDesconto(int $descontoInicial, bool $ehPremium, int $quantidade, 
     
   echo <<<EOF
   --------------------
-  Desconto: $descontoFinal
+  Desconto: $descontoFinal 
   --------------------
   EOF.PHP_EOL;
 }
